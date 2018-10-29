@@ -1,0 +1,21 @@
+body {
+    background-color: lightskyblue;
+    text-align: left;
+    font-family: "Al Nile";
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-family: Avenir;
+    font-size: 50px;
+}
+h2 {
+    color: black;
+    text-align: center;
+    font-family: Avenir;
+}
+#output2{
+    font-size: 25px;
+}
+
+
